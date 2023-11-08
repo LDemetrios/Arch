@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab1_Logic_circuits" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab2_Cache_simulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab3_ELF_Disassebly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab4_OpenMP" vcs="Git" />
+  </component>
+</project>
